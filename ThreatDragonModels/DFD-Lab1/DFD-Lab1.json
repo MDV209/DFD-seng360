@@ -1,11 +1,11 @@
 {
   "version": "2.6.2",
   "release_version": "",
-  "released_at": "",
+  "released_at": "2026-09-17",
   "summary": {
     "title": "DFD-Lab1",
-    "owner": "",
-    "description": "",
+    "owner": "Mitchell",
+    "description": "Data Flow Diagram for Lab 01 of Seng360",
     "id": 0
   },
   "detail": {
